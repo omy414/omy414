@@ -17,8 +17,16 @@ I am currently working in the R&D team of the company.
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=black"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"><img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=black">
 
-##### There's a lot more, but there's no iKON
+<br>
+##### *There's a lot more, but there's no iKON*
+<br>
+<br>
+#### **My Blog**
+<a href="https://dev-my.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-6DB33F?style=flat-square&logo=
+Storyblok&logoColor=white"/></a>
 
+#### **My Resume**
+<a href="https://omy414.github.io/PortFolio/" target="_blank"><img src="https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=ReadMe&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> -->
 <!--
 **omy414/omy414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
