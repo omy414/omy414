@@ -22,9 +22,11 @@ I am currently working in the R&D team of the company.
 <br>
 <br>
 #### **My Blog**
+<br>
 <a href="https://dev-my.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-6DB33F?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 
 #### **My Resume**
+<br>
 <a href="https://omy414.github.io/PortFolio/" target="_blank"><img src="https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=ReadMe&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> -->
 <!--
