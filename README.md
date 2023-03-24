@@ -8,7 +8,7 @@ I am currently working in the R&D team of the company.
 🏀I like all ball games and I like to be active.🤾
 
 
-
+#### SKILLS
 <img src="https://img.shields.io/badge/Java-607078?style=for-the-badge&logo="><img src="https://img.shields.io/badge/Python-3776AB5?style=for-the-badge&logo=Python&logoColor=black"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=black">
 
 
